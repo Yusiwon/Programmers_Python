@@ -19,4 +19,4 @@ def solution(topping):
 
     return count
 
-print(solution([1, 2, 1, 3, 1, 4, 1, 2]))
+solution([1, 2, 1, 3, 1, 4, 1, 2])
