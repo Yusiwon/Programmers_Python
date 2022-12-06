@@ -1,8 +1,8 @@
 from collections import Counter
 
-def solution(topping):
 
-    dic = Counter(topping)    # 딕셔너리 형태로 담긴다
+def solution(topping):
+    dic = Counter(topping)  # 딕셔너리 형태로 담긴다
 
     set_dic = set()
     count = 0
@@ -18,5 +18,6 @@ def solution(topping):
             count += 1
 
     return count
+
 
 solution([1, 2, 1, 3, 1, 4, 1, 2])
