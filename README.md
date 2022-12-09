@@ -12,3 +12,5 @@
 * [Level 2](https://github.com/Yusiwon/Programmers_Python/tree/main/src/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/level2)
   * [롤케이크자르기](https://github.com/Yusiwon/Programmers_Python/blob/main/src/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/level2/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%EC%9E%90%EB%A5%B4%EA%B8%B0.py)
     > from collections import Counter사용
+    
+### 2021 카카오 채용연계형 인턴십
